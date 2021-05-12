@@ -5,7 +5,7 @@ Scrum is a framework that helps teams work together. Much like a rugby team (whe
 
 A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work. Sprints are at the very heart of scrum and agile methodologies, and getting sprints right will help your agile team ship better software with fewer headaches.  
 
-### Whar are do's and dont's in SCRUM
+### What are do's and dont's in SCRUM
 Do's and Don’ts
 Even with the basics down, most teams will stumble as they start to run sprints. Megan Cook rounds out this discussion with some Do's and Don’ts she's picked up over the years. 
 
