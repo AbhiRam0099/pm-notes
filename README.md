@@ -9,7 +9,7 @@ A sprint is a short, time-boxed period when a scrum team works to complete a set
 Do's and Don’ts
 Even with the basics down, most teams will stumble as they start to run sprints. Megan Cook rounds out this discussion with some Do's and Don’ts she's picked up over the years. 
 
-** Do: **
+#### Do: 
 
 Make sure the team sets and understands the sprint goal and how success will be measured. This is the key to keeping everyone aligned and moving forward toward a common destination.
 Do ensure you have a well-groomed backlog with your priorities and dependencies in order. This can be a big challenge that could derail the process if it’s not properly managed.
@@ -19,7 +19,7 @@ Leave out work where you won’t be able to get the dependencies done, like work
 Finally, once a decision or plan is made, make sure someone captures that information in your project management or collaboration tool, like your Jira tickets. That way, both the decision and the rationale are easy for everyone to see later.
 While you’re working on being a Scrum all-star with these “do’s,” watch out for a few red flags too:
 
-** Don't: **
+#### Don't: 
 
 Don’t pull in too many stories, overestimate velocity, or pull in tasks that can’t be completed in the sprint. You don’t want to set yourself or your team up for failure.
 Don’t forget about quality or technical debt. Make sure to budget time for QA and non-feature work, like bugs and engineering health.
