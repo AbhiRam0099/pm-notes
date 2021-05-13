@@ -32,12 +32,15 @@ If you hear concerns from the team, whether it’s about velocity, low-certainty
 kANBAN-Automation is one of the dashboard in project dashboards where the issue can be closed automatically.
 ### How to create issue ?
  Steps to create a issue as follows 
- 1 Select the project repository you want to create the issue for .
- 2 Click on the issue tab.
- 3 Click on the new issue button which is on the leftside .
- 4 Give a title and comment on the issue. 
- 5 Click on the submitissue button
+ 1. Select the project repository you want to create the issue for .
+ 2. Click on the issue tab.
+ 3. Click on the new issue button which is on the leftside .
+ 4. Give a title and comment on the issue. 
+ 5. Click on the submitissue button
 ### How to create a project board for KANBAN-Automation ?
 Steps to follow in creation of KANBAN-Automation dash board 
-1.
+1.Go to projects dropdown under your profile 
+2.Select a titile 
+3.Choose the type of issue template , here we are choosing the kanban-automated template 
+4.Add the repository link where you want to create the issue for 
 
