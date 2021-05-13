@@ -39,8 +39,8 @@ kANBAN-Automation is one of the dashboard in project dashboards where the issue 
  5. Click on the submitissue button
 ### How to create a project board for KANBAN-Automation ?
 Steps to follow in creation of KANBAN-Automation dash board 
-1.Go to projects dropdown under your profile 
-2.Select a titile 
-3.Choose the type of issue template , here we are choosing the kanban-automated template 
-4.Add the repository link where you want to create the issue for 
+1. Go to projects dropdown under your profile 
+2. Select a titile 
+3. Choose the type of issue template , here we are choosing the kanban-automated template 
+4. Add the repository link where you want to create the issue for 
 
