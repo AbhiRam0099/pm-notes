@@ -26,3 +26,18 @@ Don’t forget about quality or technical debt. Make sure to budget time for QA 
 Don’t let the team have a fuzzy view of what's in the sprint. Nail it down, and don’t focus so much on moving fast that you forget to make sure everyone’s moving in the same direction.
 Also, don’t take on a large amount of unknown or high-risk work. Break down stories that are large or have high uncertainty, and don't be afraid to leave some of that work for the next sprint.
 If you hear concerns from the team, whether it’s about velocity, low-certainty work, or work they think is bigger than what they estimated, don’t ignore it. Address the issue, and recalibrate when necessary.
+
+
+## KANBAN- Automation 
+kANBAN-Automation is one of the dashboard in project dashboards where the issue can be closed automatically.
+### How to create issue ?
+ Steps to create a issue as follows 
+ 1.Select the project repository you want to create the issue for .
+ 2.Click on the issue tab.
+ 3.Click on the new issue button which is on the leftside .
+ 4.Give a title and comment on the issue. 
+ 5.Click on the submitissue button
+### How to create a project board for KANBAN-Automation ?
+Steps to follow in creation of KANBAN-Automation dash board 
+1.
+
